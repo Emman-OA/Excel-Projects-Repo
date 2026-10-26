@@ -82,5 +82,9 @@ Analytical Thinking and Problem Solving
 📅 Date & Time Functions
 📋 Data Filtering & Sorting
 🌟 Project Outcome
+<img width="691" height="320" alt="image" src="https://github.com/user-attachments/assets/53bb701a-d9cf-412c-805a-32a74067fd32" />
+<img width="691" height="311" alt="image" src="https://github.com/user-attachments/assets/1273a6fb-d269-4ac2-804d-262166b51032" />
+<img width="691" height="308" alt="image" src="https://github.com/user-attachments/assets/0372ad26-62af-4854-b09b-44782201b9f1" />
+<img width="691" height="305" alt="image" src="https://github.com/user-attachments/assets/e7a1dc51-0c50-4eb2-8427-89fa9c7cddf3" />
 
 This project strengthened my ability to transform raw sales data into meaningful insights using Excel's analytical tools. By combining formulas, PivotTables, filters, and visualisations, I developed a strong foundation in data analysis and reporting that supports real-world business decision-making. 📈✨
